@@ -19,7 +19,7 @@ A modern responsive business website built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-()
+( https://sanjanadhali.github.io/Week-2-Projects/)
 
 ## Author
 Sanjana Dhali
